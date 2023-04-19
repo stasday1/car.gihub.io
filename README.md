@@ -1,1 +1,1 @@
-**Стас**
+![car](/assets/image.jpg)
